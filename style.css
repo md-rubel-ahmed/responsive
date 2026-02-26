@@ -556,6 +556,7 @@ letter-spacing: 3px;
     display: grid;
     grid-template-columns: repeat(1,1fr);
     grid-gap:0 20px;
+    width:100%
 }
 .more-about{
     padding-bottom: 30px;
