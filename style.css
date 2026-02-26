@@ -555,7 +555,7 @@ letter-spacing: 3px;
 .about-single-parent{
     display: grid;
     grid-template-columns: repeat(1,1fr);
-    grid-gap: 0px 20px;
+    grid-gap: 20px;
 }
 .more-about{
     padding-bottom: 30px;
